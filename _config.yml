@@ -1,7 +1,7 @@
 # Site settings
 title: Se-Min Lim
 description: Se-Min Lim
-baseurl: """/particle" # the subpath of your site, e.g. /blog
+baseurl: #""/particle" # the subpath of your site, e.g. /blog
 url: "http://SeMinLim.github.io"
 
 # User settings
